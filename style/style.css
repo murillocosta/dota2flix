@@ -54,7 +54,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background-image: linear-gradient(rgba(0,0,0.5),rgba(0,0,0,.5)100%), url('/imagens/ti-capa.png');
+    background-image: linear-gradient(rgba(0,0,0.5),rgba(0,0,0,.5)100%), url('https://cdn.ome.lt/J2lg2hHcqtiiahD_mUs12fGktww=/970x360/smart/uploads/conteudo/fotos/theinternational_E3BJxN0.jpg');
     height: 400px;
     background-size: cover;
     display: flex;
